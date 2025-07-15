@@ -36,6 +36,21 @@ A Spring Boot web application to manage books in a library. It includes role-bas
 | **Librarian** | Can add, update, delete books    |
 
 ---
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](screenshots/login-page.png)
+
+### 🏠 Home Page
+![Home](screenshots/home-page.png)
+
+### ➕ Add Book Page
+![Add Book](screenshots/addingbook-page.png)
+
+### 📖 Read Book Page
+![Read Book](screenshots/reading-book-page.png)
+
+---
 
 ## ⚙️ How to Run the Project
 
